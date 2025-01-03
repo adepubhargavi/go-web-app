@@ -16,6 +16,10 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 ![image](https://github.com/user-attachments/assets/0ac7d411-d8f1-442a-93e5-6bbbe3e0b50c)
 
+## Argocd UI
+
+![Screenshot 2025-01-03 125846](https://github.com/user-attachments/assets/5021dc82-4ff5-4f86-887e-bf6016e29abe)
+
 
 
 
